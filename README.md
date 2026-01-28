@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Isaiah</h1>
+<h3 align="center">A hardworking student in neuva york</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plightovr&show_icons=true&locale=en&layout=compact" alt="plightovr" /></p>
+
+
 
 <!--
 **plightovr/plightovr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
